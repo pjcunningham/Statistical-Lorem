@@ -6,7 +6,7 @@ Statistical Lorem allows you to specify a theme, number of paragraphs, and lengt
 ```python
 from statlorem import ipsum
 # Will generate 2 paragraphs with 60 words each.
-print ipsum('scifi', 2, 60)
+print (ipsum('scifi', 2, 60))
 """
 Blessed! in smallness, in shrubberies that was it and fall to the ground, then threaten totear me to new york. he doesn't take me away." my nose was bending down, his rocket! itraverse a temple! it is weathered, leaning as far as we found it doesn't take me tothe city yonder, and as we are all get into insensibility."i am.
 
@@ -38,5 +38,5 @@ Now import the function 'ipsum'
 from statlorem import ipsum
 
 # Will generate 2 paragraphs with 60 words each.
-print ipsum('scifi', 2, 60)
+print (ipsum('scifi', 2, 60))
 ```
