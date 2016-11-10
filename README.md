@@ -2,7 +2,7 @@
 Bored of weird standard looking 'Lorem Ipsum'?
 Obtain theme based random paragraphs!
 
-Statistical Lorem allows you to specifify a theme, number of paragraphs, and length of paragraph:
+Statistical Lorem allows you to specify a theme, number of paragraphs, and length of paragraph:
 ```python
 from statlorem import ipsum
 # Will generate 2 paragraphs with 60 words each.
